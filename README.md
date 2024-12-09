@@ -120,7 +120,7 @@ Os usuários se dividem em três grupos:
 
 ## Contribuidores
 
-Agradeço a seguinte pessoa por contribuir para este projeto:
+Agradeço as seguintes pessoas por contribuir para este projeto:
 
 - [Murilo Faveri](https://github.com/MuhFaveri)
 - [nogueirahyper](https://github.com/nogueirahyper)
